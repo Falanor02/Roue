@@ -1,0 +1,7 @@
+services:
+
+  roue:
+
+    build: .
+
+    container_name: roue-builder
