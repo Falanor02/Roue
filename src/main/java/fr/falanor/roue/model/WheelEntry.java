@@ -8,8 +8,6 @@ public class WheelEntry {
 
     private String color;
 
-    public WheelEntry() {
-    }
 
     public WheelEntry(String name, int weight, String color) {
 
