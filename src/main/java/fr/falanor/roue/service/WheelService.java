@@ -105,4 +105,8 @@ public class WheelService {
 
     }
 
+    public void save() {
+        repository.save();
+    }
+
 }

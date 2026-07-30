@@ -1,0 +1,49 @@
+[ {
+  "name" : "Guerrier",
+  "weight" : 5,
+  "color" : "#C69B6D"
+}, {
+  "name" : "Chasseur",
+  "weight" : 5,
+  "color" : "#AAD372"
+}, {
+  "name" : "Mage",
+  "weight" : 5,
+  "color" : "#3FC7EB"
+}, {
+  "name" : "Paladin",
+  "weight" : 5,
+  "color" : "#F48CBA"
+}, {
+  "name" : "Prêtre",
+  "weight" : 5,
+  "color" : "#FFFFFF"
+}, {
+  "name" : "Voleur",
+  "weight" : 5,
+  "color" : "#FFF468"
+}, {
+  "name" : "Chaman",
+  "weight" : 5,
+  "color" : "#0070DD"
+}, {
+  "name" : "Démoniste",
+  "weight" : 5,
+  "color" : "#8788EE"
+}, {
+  "name" : "Druide",
+  "weight" : 5,
+  "color" : "#FF7C0A"
+}, {
+  "name" : "Chasseur de démons",
+  "weight" : 5,
+  "color" : "#A330C9"
+}, {
+  "name" : "Chevalier de la mort",
+  "weight" : 5,
+  "color" : "#C41E3A"
+}, {
+  "name" : "Battlegrounds",
+  "weight" : 5,
+  "color" : "#E67E22"
+} ]
